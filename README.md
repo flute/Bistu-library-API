@@ -1,4 +1,4 @@
 Bistu-library-API
 =================
 
-PHP API FOR BISTU LIBRARY
+北京信息科技大学图书馆API
