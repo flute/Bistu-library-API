@@ -5,4 +5,4 @@ Bistu-library-API
 
 关注微信服务号bistu，查看效果。
 
-<img src="./public/img/sorry.gif"/>
+<img src="./public/img/bistu.jpg"/>
