@@ -7,7 +7,7 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
 		<meta name="format-detection" content="telephone=no">
-        <link href="../public/css/cet.css" rel="stylesheet" type="text/css">
+        	<link href="../public/css/cet.css" rel="stylesheet" type="text/css">
 		<script type="text/javascript" src="../public/js/jquery.min.js"></script>
 		<script type="text/javascript" src="../public/js/main.js"></script>
 	</head>
