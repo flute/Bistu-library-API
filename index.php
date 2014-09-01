@@ -186,6 +186,6 @@
                 WeixinJSBridge.call('hideOptionMenu');
             });
         </script>
-        <footer style="text-align:center; color:#ffd800;margin-right:20px;margin-top:0px;margin-bottom:20px;"><a href="./book.php"></a></footer>
+        <footer style="text-align:center; color:#ffd800;margin-right:20px;margin-top:0px;margin-bottom:20px;font-size:13px;">©2014 By<a href="http://weibo.com/ifluter"> ludis</a></footer>
 	</body>
 </html>
